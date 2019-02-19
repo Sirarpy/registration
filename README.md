@@ -1,2 +1,2 @@
 # registration
-fool reg
+fool registration
